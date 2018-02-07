@@ -1,0 +1,15 @@
+com\springproject\repository\Datarepository$3.class
+com\springproject\model\Exercise.class
+com\springproject\vo\BusVO.class
+com\springproject\aop\BeforeExecution.class
+com\springproject\service\Dataservice.class
+com\springproject\repository\Datarepository.class
+com\springproject\controller\LoginController.class
+com\springproject\controller\RegisterController.class
+com\springproject\repository\Datarepo.class
+com\springproject\repository\Datarepository$1.class
+com\springproject\repository\Datarepository$2.class
+com\springproject\controller\Buscontroller.class
+com\springproject\service\Dataservices.class
+com\springproject\vo\BookVO.class
+com\springproject\vo\UserVO.class
