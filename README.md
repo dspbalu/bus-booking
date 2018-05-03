@@ -20,4 +20,6 @@ Softwares used: Eclipse,tomcat,XAMPP,maven plugin,java jdk8
     step 5: Import the database file(brs.sql) into the database.
     step 6: Import Apache server into the eclipse.
   
-  Now run the project with the help of Apache.
+  Now run the project with the help of Apache. 
+  
+  The home page will be opened in the Eclipse or you can visit the chrome with url http://localhost:8080/springproject/index.html
